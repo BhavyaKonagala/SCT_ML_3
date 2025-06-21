@@ -1,2 +1,24 @@
-# SCT_ML_3
-This project implements a Cat vs Dog image classifier using Support Vector Machine (SVM) with a linear kernel on 128×128 grayscale images. It covers data preprocessing, model training, evaluation, and visual prediction of results.
+#SCT_ML_3
+This project implements an image classifier that distinguishes between cats and dogs using a Support Vector Machine (SVM) with a linear kernel. The model is trained on 128×128 grayscale images from the [Kaggle Dogs vs. Cats dataset](https://www.kaggle.com/competitions/dogs-vs-cats/data).
+
+## 📌 Features
+- Preprocesses and resizes images to 128×128
+- Converts images to grayscale and flattens them
+- Trains a Support Vector Classifier (SVC with linear kernel)
+- Evaluates performance using classification report and confusion matrix
+- Visualizes random test predictions
+
+## 🗂️ Dataset
+The dataset used is from Kaggle:
+🔗 [Dogs vs. Cats - Kaggle Competition](https://www.kaggle.com/competitions/dogs-vs-cats/data)
+
+Due to GitHub's 25MB file size limit, the full dataset is **not included** in this repository.  
+
+## 🧪 Requirements
+- Python 3.x
+- NumPy
+- OpenCV
+- scikit-learn
+- Matplotlib
+- Seaborn
+- tqdm
