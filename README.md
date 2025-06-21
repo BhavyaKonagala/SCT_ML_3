@@ -1,4 +1,4 @@
-# SCT_ML_3
+# 🐱🐶 Cats vs Dogs Image Classifier using SVM
 This project implements an image classifier that distinguishes between cats and dogs using a Support Vector Machine (SVM) with a linear kernel. The model is trained on 128×128 grayscale images from the [Kaggle Dogs vs. Cats dataset](https://www.kaggle.com/competitions/dogs-vs-cats/data).
 
 ## 📌 Features
