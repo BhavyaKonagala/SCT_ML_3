@@ -11,8 +11,9 @@ This project implements an image classifier that distinguishes between cats and 
 ## 🗂️ Dataset
 The dataset used is from Kaggle:
 🔗 [Dogs vs. Cats - Kaggle Competition](https://www.kaggle.com/competitions/dogs-vs-cats/data)
+Due to GitHub's 25MB file size limit, the full dataset is **not included** in this repository.
 
-Due to GitHub's 25MB file size limit, the full dataset is **not included** in this repository.  
+The dataset is sourced from the Kaggle Dogs vs. Cats competition. A subset was used for training and testing due to the dataset's large size. However, it is not included in this repository as it exceeds GitHub’s 25MB file size limit.
 
 ## 🧪 Requirements
 - Python 3.x
